@@ -1,4 +1,4 @@
-# Questões 3 
+# Questão 3 
 
 <p>Nesta questão vamos usar o Git e um editor de texto (nano), você pode realizar uma sequência de comandos em um diretório da sua máquina local, seguindo a sequência definida no exercício. </p>
 
